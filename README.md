@@ -10,4 +10,4 @@ I use knowledge based on tutorials from the W3Schools website (https://www.w3sch
 
 Currently I only use HTML and CSS, soon I will be programming in JS, then I will buy a Raspberry PI and set up a server on it and experiment
 
-* More coming soon *
+ More coming soon 
